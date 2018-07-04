@@ -1,0 +1,42 @@
+﻿  sudoku.c
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(461): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+  d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(461): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(550): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [10]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(551): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [7]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(552): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [6]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(557): warning C4047: "funkcja": "char **" różni się w poziomach operatorów pośrednich od "char **[3]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(557): warning C4024: "showMenu": różne typy dla formalnego i rzeczywistego parametru 1
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(557): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(557): warning C4024: "showMenu": różne typy dla formalnego i rzeczywistego parametru 2
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(576): warning C4244: "+=": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(581): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char (*)[128]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(581): warning C4024: "saveGame": różne typy dla formalnego i rzeczywistego parametru 1
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(611): warning C4244: "+=": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(807): warning C4047: "==": "int" różni się w poziomach operatorów pośrednich od "char *"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(805): warning C4101: "keyPressed": lokalna zmienna, do której nie istnieje odwołanie
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(906): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+  d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(906): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(916): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+  d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(916): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(926): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+  d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(926): note: symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 2
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(960): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(966): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [9]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(967): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [8]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(968): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [8]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(969): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [6]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(973): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [6]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(974): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [7]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(975): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [7]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(976): warning C4047: "=": "char **" różni się w poziomach operatorów pośrednich od "char [7]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(983): warning C4047: "funkcja": "char **" różni się w poziomach operatorów pośrednich od "char **[4]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(983): warning C4024: "showMenu": różne typy dla formalnego i rzeczywistego parametru 1
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(983): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(983): warning C4024: "showMenu": różne typy dla formalnego i rzeczywistego parametru 2
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(991): warning C4047: "funkcja": "char **" różni się w poziomach operatorów pośrednich od "char **[4]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(991): warning C4024: "showMenu": różne typy dla formalnego i rzeczywistego parametru 1
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(991): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(991): warning C4024: "showMenu": różne typy dla formalnego i rzeczywistego parametru 2
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(1028): warning C4047: "funkcja": "char *" różni się w poziomach operatorów pośrednich od "char (*)[128]"
+d:\polśl\cpp-projekty\pk2\projekt_sudoku\projekt_sudoku\sudoku.c(1028): warning C4024: "loadGame": różne typy dla formalnego i rzeczywistego parametru 1
+  Projekt_Sudoku.vcxproj -> D:\polśl\cpp-projekty\pk2\Projekt_Sudoku\Debug\Projekt_Sudoku.exe
